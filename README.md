@@ -10,4 +10,4 @@ This is an interactive weather map that tracks developing storms and displays ar
 
 This is an interactive map with points of interest around the Greenville area.
 
-https://gradyshupe.github.io/photomap3/
+https://gradyshupe.github.io/photomap4/
